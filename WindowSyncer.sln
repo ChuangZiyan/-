@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "同步器", "同步器.csproj", "{949F9C26-043F-400B-8DB1-56AC547E9E82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowSyncer", "WindowSyncer.csproj", "{949F9C26-043F-400B-8DB1-56AC547E9E82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
