@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "同步器", "同步器.csproj", "{949F9C26-043F-400B-8DB1-56AC547E9E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949F9C26-043F-400B-8DB1-56AC547E9E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949F9C26-043F-400B-8DB1-56AC547E9E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949F9C26-043F-400B-8DB1-56AC547E9E82}.Debug|x86.ActiveCfg = Debug|x86
+		{949F9C26-043F-400B-8DB1-56AC547E9E82}.Debug|x86.Build.0 = Debug|x86
+		{949F9C26-043F-400B-8DB1-56AC547E9E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949F9C26-043F-400B-8DB1-56AC547E9E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949F9C26-043F-400B-8DB1-56AC547E9E82}.Release|x86.ActiveCfg = Release|x86
+		{949F9C26-043F-400B-8DB1-56AC547E9E82}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9655516-D64C-4112-B79B-EF5315C4116A}
+	EndGlobalSection
+EndGlobal
